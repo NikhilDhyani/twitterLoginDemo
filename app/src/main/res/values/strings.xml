@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">twitterfeed</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">"Enter your key consumer key here"</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">"Enter Your Secret Key Here"</string>
+
+    </resources>
